@@ -1,0 +1,2 @@
+positive: https://b2drop.bsc.es/index.php/s/BIMCV-COVID19-cIter_1_2_3
+negative: https://b2drop.bsc.es/index.php/s/BIMCV-COVID19-cIter_1_2-Negative
