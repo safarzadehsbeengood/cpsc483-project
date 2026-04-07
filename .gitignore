@@ -1,3 +1,4 @@
-bimcv_covid19_posi_subjects_1/
-bimcv_covid19_posi_subjects_1.tgz
-dataset/
+positive/
+negative/
+**.gz
+.DS_Store
