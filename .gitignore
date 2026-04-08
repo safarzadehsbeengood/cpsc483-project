@@ -1,4 +1,5 @@
-positive/
-negative/
+covid19_neg/
+covid19_posi/
+preprocessed/
 **.gz
 .DS_Store
