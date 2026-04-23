@@ -3,3 +3,4 @@ covid19_posi/
 preprocessed/
 **.gz
 .DS_Store
+.venv/
