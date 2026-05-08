@@ -4,3 +4,5 @@ preprocessed/
 **.gz
 .DS_Store
 .venv/
+data_upload_v3/
+dataset/
